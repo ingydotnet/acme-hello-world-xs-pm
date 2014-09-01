@@ -1,0 +1,34 @@
+Acme::Hello::World::XS
+======================
+
+Greet the World. Quickly!
+
+<badge travis coveralls ingydotnet/acme-hello-world-xs-pm>
+
+= Synopsis
+
+  use Acme::Hello::World::XS;
+
+  greet;
+
+= Description
+
+A simple sample module using Inline for XS.
+
+= See Also
+
+* [Inline]
+* [Inline::C]
+
+= Author
+
+Ingy döt Net <ingy@cpan.org>
+
+= Copyright
+
+Copyright 2014. Ingy döt Net.
+
+This program is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself.
+
+See http://www.perl.com/perl/misc/Artistic.html
